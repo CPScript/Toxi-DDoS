@@ -44,8 +44,8 @@ while True:
     print("            \033[2m░░░██║░░░██║░░██║░██╔██╗░██║")
     print("            \033[2m░░░██║░░░╚█████╔╝██╔╝╚██╗██║")
     print("            \033[2m░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝")
-    print("                   Author: Mr.\033[91mRed\033[0m")
-    print("   Github: https://github.com/Red-
+    print("                   Author: Cpscript")
+    print("   Github: https://github.com/CPScript/
     print('                   For legal purposes only')
     print("\033[92;1m")
     print("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
