@@ -1,4 +1,4 @@
-# 🔫 ToXI DDoS Tool 
+# ☠️ ToXI ☠️DDoS Tool 
 ## What is this?
 Questions | Answers
 --------- | ---------
