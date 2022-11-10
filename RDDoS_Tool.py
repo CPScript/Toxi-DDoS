@@ -38,13 +38,14 @@ bytes = random._urandom(1490)
 # RDDoS_Tool
 while True:
     # UI.
-    print("\033[91m   _____ \033[0m         \033[95m  ______    ______         __ \033[0m     ______)        Version: " + version)       
-    print("\033[91m  (, /   )      /)\033[0m \033[95m(, /    ) (, /    )   (__/  )\033[0m    (, /        /)") 
-    print("\033[91m    /__ /  _  _(/\033[0m  \033[95m  /    /    /    / ___  /     \033[0m     /  ______// ")
-    print("\033[91m ) /   \\__(/_(_(_\033[0m\033[95m  _/___ /_  _/___ /_(_)) /     \033[0m   ) /  (_)(_)(/_")
-    print("\033[91m(_/\033[0m              \033[95m(_/___ /  (_/___ /    (_/      \033[0m  (_/\n")
-    print("                        Author: CPScript")
-    print("       Github: https://github.com/CPScript/")
+    print("            \033[93m████████╗░█████╗░██╗░░██╗██╗")
+    print("            \033[33m╚══██╔══╝██╔══██╗╚██╗██╔╝██║")
+    print("            \033[32m░░░██║░░░██║░░██║░╚███╔╝░██║")
+    print("            \033[2m░░░██║░░░██║░░██║░██╔██╗░██║")
+    print("            \033[2m░░░██║░░░╚█████╔╝██╔╝╚██╗██║")
+    print("            \033[2m░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚═╝")
+    print("                   Author: Mr.\033[91mRed\033[0m")
+    print("   Github: https://github.com/Red-
     print('                   For legal purposes only')
     print("\033[92;1m")
     print("1. Website Domain\n2. IP Address\n3. About\n4. Exit")
